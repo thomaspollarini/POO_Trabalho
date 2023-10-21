@@ -1,0 +1,5 @@
+Grupo: Thomas Santos Pollarini
+       Carlos Costa
+
+Foi implementado criação de novos logins em um arquivo de texto de forma funcional, porém ocorria erro ao rodar pelo .bat, 
+optamos por retirar essa parte no .bat, mas deixamos comentada no código fonte.
